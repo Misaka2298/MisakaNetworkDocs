@@ -1,6 +1,6 @@
 ---
 home: true
-icon: home
+icon: hugeicons:beach
 title: 首页
 heroImage: https://linshi-1309490855.cos.ap-nanjing.myqcloud.com/FullArasakaComed.png
 heroImageStyle:
