@@ -27,7 +27,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 ---
 
-::: info 本站还处于早期开发中☆Kira~
+::: info 本站还处于早期开发阶段☆Kira~
 
 本站还未完全完工，将会随处可见**我没写完的页面**，请谨慎阅览。
 
