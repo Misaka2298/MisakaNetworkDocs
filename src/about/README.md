@@ -19,7 +19,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 部署在[Netlify](https://www.netlify.com/)上，使用[Cloudflare](https://www.cloudflare-cn.com)的各种Free计划支持，感谢网络大善人。
 
-是“**御坂网络 知识库**”，不是“御坂 网络知识库”。
+是“**御坂网络** 知识库”，不是“御坂 **网络知识库**”。
 
 # 关于站长
 御坂球（Misaka2298），河南郑州人，目前就读于长春市某中学高一(2024届)，现役[NOI](https://www.noi.cn/)(全国青少年信息学奥林匹克竞赛)边缘选手，业余电吉他爱好者，学过一点竹笛。
@@ -33,3 +33,5 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 [御坂球超炫酷备份站](https://alist.misaka2298.icu/)
 
 [御坂网络知识库](https://docs.misaka2298.icu/)
+
+暂无自己的logo，现暂用[赛博朋克2077](https://mzh.moegirl.org.cn/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077)中[荒坂公司(Arasaka)](https://cyberpunk.huijiwiki.com/wiki/%E8%8D%92%E5%9D%82)的logo。
