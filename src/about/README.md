@@ -24,7 +24,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 # 关于站长
 御坂球（Misaka2298），河南郑州人，目前就读于长春市某中学高一(2024届)，现役[NOI](https://www.noi.cn/)(全国青少年信息学奥林匹克竞赛)边缘选手，业余电吉他爱好者，学过一点竹笛。
 
-曾获CCF CSP-S2024复赛一等奖，参加了NOIP2024，但是没拿奖，哈哈。
+曾获中国民族管弦乐协会竹笛业余十级(优秀)，CCF CSP-S2024复赛一等奖，参加了NOIP2024，但是没拿奖，哈哈。
 
 # 关于御坂网络
 
