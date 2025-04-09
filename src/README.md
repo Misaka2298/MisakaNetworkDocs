@@ -37,7 +37,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 只是一个被Misaka2298用来随便写点东西的网站，我也不知道要在这里写什么。
 
-本网站架构大量~~抄袭~~借鉴了[classisland-docs-next](https://github.com/ClassIsland/classisland-docs-next)，感谢[HelloWRC](https://github.com/HelloWRC)。
+建站灵感来源于[classisland-docs-next](https://github.com/ClassIsland/classisland-docs-next)，感谢[HelloWRC](https://github.com/HelloWRC)。
 
 ## 目录
 
