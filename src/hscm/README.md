@@ -1,5 +1,5 @@
 ---
-title: 17中机房
+title: 高中机房
 index: false
 icon: laptop-code
 author: 宇宙超级无敌帅的2024届神秘学长

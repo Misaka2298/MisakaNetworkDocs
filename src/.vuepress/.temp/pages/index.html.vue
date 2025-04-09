@@ -14,9 +14,9 @@
     link="./about/"
   />
   <VPCard
-    title="十七中机房"
-    desc="了解十七中机房电脑的各种神奇操作。"
-    link="./17cm/"
+    title="高中机房"
+    desc="了解站长高中机房电脑的各种神奇操作。"
+    link="./hscm/"
   />
 </div>
 </div></template>
