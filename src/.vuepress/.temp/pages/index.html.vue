@@ -9,14 +9,14 @@
 <p>本知识库包含以下部分：</p>
 <div class="vp-card-container">
   <VPCard
-    title="十七中机房"
-    desc="了解十七中机房电脑的各种神奇操作。"
-    link="./17cm/"
-  />
-  <VPCard
     title="关于本站&站长&御坂网络"
     desc="了解关于这里的一切。"
     link="./about/"
+  />
+  <VPCard
+    title="十七中机房"
+    desc="了解十七中机房电脑的各种神奇操作。"
+    link="./17cm/"
   />
 </div>
 </div></template>
