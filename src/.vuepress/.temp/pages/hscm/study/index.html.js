@@ -1,0 +1,16 @@
+import comp from "D:/MisakaNetworkDocs/MNDocs_NG/src/.vuepress/.temp/pages/hscm/study/index.html.vue"
+const data = JSON.parse("{\"path\":\"/hscm/study/\",\"title\":\"学习与编程\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"学习与编程\",\"index\":false,\"author\":\"2024届神秘学长\",\"category\":[\"知识\"],\"copyright\":\"御坂网络\",\"footer\":\"使用 <a href=\\\"https://theme-hope.vuejs.press/zh/\\\" target=\\\"_blank\\\">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 Misaka2298\",\"description\":\"1 问 老 师 我是懒狗，不想写这一页，扣1催更。\"},\"readingTime\":{\"minutes\":0.24,\"words\":72},\"filePathRelative\":\"hscm/study/README.md\",\"autoDesc\":true}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
