@@ -9,7 +9,7 @@
 <p>本知识库包含以下部分：</p>
 <div class="vp-card-container">
   <VPCard
-    title="关于本站&站长&御坂网络"
+    title="关于"
     desc="了解关于这里的一切。"
     link="./about/"
   />

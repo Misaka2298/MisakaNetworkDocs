@@ -45,7 +45,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 <div class="vp-card-container">
   <VPCard
-    title="关于本站&站长&御坂网络"
+    title="关于"
     desc="了解关于这里的一切。"
     link="./about/"
   />

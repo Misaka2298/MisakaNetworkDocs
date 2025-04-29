@@ -2,7 +2,7 @@
 title: 高中机房
 index: false
 icon: laptop-code
-author: 宇宙超级无敌帅的2024届神秘学长
+author: 2024届神秘学长
 category:
   - 知识
 copyright: 御坂网络
