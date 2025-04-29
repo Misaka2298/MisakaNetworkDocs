@@ -2,7 +2,7 @@
 home: true
 icon: hugeicons:beach
 title: 首页
-heroImage: https://linshi-1309490855.cos.ap-nanjing.myqcloud.com/FullArasakaComed.png
+heroImage: https://img.misaka2298.icu/mndocs/FullArasaka.png
 heroImageStyle:
   scale: 0.75
 # bgImage: 
