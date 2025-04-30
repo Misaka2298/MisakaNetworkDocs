@@ -40,5 +40,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 <img src="https://img.misaka2298.icu/mndocs/IMG_20250430_130645.jpg" alt="我随手画的键位图" title="我随手画的键位图">
 
-按照上面这个玩就可以了。按玩家1来举例：
+按照上面这个玩就可以了。红色是移动蓝色是交互。
+
+按玩家1来举例：
 WASD：上下左右移动 Q：交互（拿钥匙，开门，射击等）
