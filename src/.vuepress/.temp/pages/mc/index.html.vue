@@ -40,9 +40,10 @@
 <p class="hint-container-title">如果你有 <em>微软账户</em> 的话在这里直接登录就可以，但你大概率没有，所以在这里要注册一个。</p>
 </div>
 <p>接下来会显示一个 <strong>个人数据导出许可</strong> ，直接点同意就可以。</p>
-<p>然后会让你填你的 <em>出生日期</em> ，这里不用填你的真实出生日期，我建议你填一个<strong>大于18岁</strong>的日期。</p>
-<div class="hint-container tip">
-<p class="hint-container-title">尽管他不可能对你进行防沉迷限制，但是填一个18岁的年龄还是好的，限制少一点。</p>
+<div class="hint-container warning">
+<p class="hint-container-title">然后会让你填你的 <em>出生日期</em> ，这里 <strong>一定要写大于18岁的年龄！！</strong></p>
+<p>如果你在这里写的年龄小于18岁的话，将会出现很多灾难性问题，反正他也不会让你输身份证号，你写个侏罗纪出生都行。<br>
+<code v-pre>感谢Fe2+提供的信息</code></p>
 </div>
 <img src="https://img.misaka2298.icu/mndocs/mclogin2.jpg" alt="注册2" title="注册2">
 <p>在这里点击“获取新的电子邮件地址”。</p>
