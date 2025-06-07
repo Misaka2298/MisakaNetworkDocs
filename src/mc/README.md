@@ -35,6 +35,16 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 # 正式开始！
 
+::: details 我想用电脑玩！
+先在电脑上下载下面的文件：
+[（点我下载）需要用到的东西](https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/Minecraft/%E5%9B%9B%E5%90%88%E4%B8%80%E5%AE%89%E8%A3%85%E5%8C%85_enced.zip)
+
+然后再下载这个软件：
+[（点我下载）免安装版向日葵远程控制](https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/Minecraft/SunloginSOS_1.2.1.61234_x64.exe)
+
+打开后把显示的九位数字发给大帝就行。
+:::
+
 首先，先点击下面的这个链接下载**我的世界国际版安装包**。
 
 [（点我）我承认电门没有大帝帅](https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/mcbe1.21.apk)

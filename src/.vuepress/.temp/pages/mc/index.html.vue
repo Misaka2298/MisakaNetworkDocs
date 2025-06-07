@@ -18,6 +18,13 @@
 <p class="hint-container-title">当然如果你不方便听语音的话忽略这一步也可以，游戏内也是可以文字交流的。</p>
 </div>
 <h1 id="正式开始" tabindex="-1"><a class="header-anchor" href="#正式开始"><span>正式开始！</span></a></h1>
+<details class="hint-container details"><summary>我想用电脑玩！</summary>
+<p>先在电脑上下载下面的文件：<br>
+<a href="https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/Minecraft/%E5%9B%9B%E5%90%88%E4%B8%80%E5%AE%89%E8%A3%85%E5%8C%85_enced.zip" target="_blank" rel="noopener noreferrer">（点我下载）需要用到的东西</a></p>
+<p>然后再下载这个软件：<br>
+<a href="https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/Minecraft/SunloginSOS_1.2.1.61234_x64.exe" target="_blank" rel="noopener noreferrer">（点我下载）免安装版向日葵远程控制</a></p>
+<p>打开后把显示的九位数字发给大帝就行。</p>
+</details>
 <p>首先，先点击下面的这个链接下载<strong>我的世界国际版安装包</strong>。</p>
 <p><a href="https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/mcbe1.21.apk" target="_blank" rel="noopener noreferrer">（点我）我承认电门没有大帝帅</a></p>
 <p>在安装时可能会让你 <strong>去应用商店安装</strong>，这里不用管它，点继续安装就可以。</p>

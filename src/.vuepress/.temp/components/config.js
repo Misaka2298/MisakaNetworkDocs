@@ -1,8 +1,8 @@
-import { hasGlobalComponent } from "D:/MisakaNetworkDocs/MNDocs_NG/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.9_5afc62925513175ca2e5f3d38fb1ca8e/node_modules/@vuepress/helper/lib/client/index.js";
-import Badge from "D:/MisakaNetworkDocs/MNDocs_NG/src/node_modules/.pnpm/vuepress-plugin-components@_4de7302bcdeabf6c58711dd0aca55db3/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import VPCard from "D:/MisakaNetworkDocs/MNDocs_NG/src/node_modules/.pnpm/vuepress-plugin-components@_4de7302bcdeabf6c58711dd0aca55db3/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
+import { hasGlobalComponent } from "D:/dev/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.9_6332c9435f1769f93cea018913c3b441/node_modules/@vuepress/helper/lib/client/index.js";
+import Badge from "D:/dev/MNDocs/src/node_modules/.pnpm/vuepress-plugin-components@_74dd53a0e009828bf123e04ceda48d4f/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import VPCard from "D:/dev/MNDocs/src/node_modules/.pnpm/vuepress-plugin-components@_74dd53a0e009828bf123e04ceda48d4f/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
 
-import "D:/MisakaNetworkDocs/MNDocs_NG/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.9_5afc62925513175ca2e5f3d38fb1ca8e/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
+import "D:/dev/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.9_6332c9435f1769f93cea018913c3b441/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
 
 export default {
   enhance: ({ app }) => {
