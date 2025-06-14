@@ -1,10 +1,9 @@
 <template><div><div class="hint-container info">
-<p class="hint-container-title">写的不是很精美，凑合看就行</p>
-<p>更改皮肤，安装光影/材质包等进阶玩法我明后天有空再补教程。</p>
+<p class="hint-container-title">由于基岩版实在是太过无趣，本服务器正式迁移到Java Edition。本页面的教程也将进行相应的更新。</p>
 </div>
-<div class="hint-container tip">
-<p class="hint-container-title">这个页面只教安卓手机/平板的安装（因为大多数人应该也是用这个玩的），如果你打算用电脑/苹果游玩的话来找我就行。</p>
-<p>当然，对于本教程来说安卓手机和安卓平板的操作是一样的。</p>
+<div class="hint-container warning">
+<p class="hint-container-title">页面施工中！</p>
+<p>本页面还未编写完成，部分内容已经不具有时效性。</p>
 </div>
 <div class="hint-container warning">
 <p class="hint-container-title">观看此教程默认大帝是 <strong>十七中第一校草</strong> 。</p>
@@ -16,6 +15,10 @@
 <p>输入域id：<strong>158259383</strong>，进来唠嗑就行，不开麦也行。</p>
 <div class="hint-container info">
 <p class="hint-container-title">当然如果你不方便听语音的话忽略这一步也可以，游戏内也是可以文字交流的。</p>
+</div>
+<div class="hint-container tip">
+<p class="hint-container-title">当然你想用电脑版的oopz也是可以的，下面是官网。</p>
+<p><a href="https://oopz.cn/" target="_blank" rel="noopener noreferrer">Oopz官方网站-让游戏连接彼此</a></p>
 </div>
 <h1 id="正式开始" tabindex="-1"><a class="header-anchor" href="#正式开始"><span>正式开始！</span></a></h1>
 <details class="hint-container details"><summary>我想用电脑玩！</summary>
