@@ -24,12 +24,12 @@
   <VPCard
     title="用电脑游玩"
     desc="其实电脑游玩体验比手机好不少的"
-    link="./win.md"
+    link="./win/"
   />
   <VPCard
     title="用手机游玩"
     desc="但手机也没差到哪里去就是"
-    link="./android.md"
+    link="./android/"
   />
 </div>
 </div></template>
