@@ -25,7 +25,10 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 根据上面的教程操作。
 
 # 前期准备工作
-[点我下载启动器](http://209.141.62.68:30008/downloads/1.2.3.5/FCL-release-1.2.3.5-all.apk)
+[点我下载启动器（主线）](https://pan.huang1111.cn/f/WR6uX/FCL-release-1.2.3.5-all.apk)
+[点我下载启动器（支线）](http://209.141.62.68:30008/downloads/1.2.3.5/FCL-release-1.2.3.5-all.apk)
+
+（下一个就行）
 
 点击上面的按钮，下载启动器并安装。
 
