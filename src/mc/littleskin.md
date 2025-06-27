@@ -54,6 +54,10 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 `· 角色名最少要求 3 个字符，最多不超过 16 个字符。`
 :::
 
+::: warning 服务器暂时不支持中文名字！
+请先使用英文名游玩，研学后我会加入中文插件，到时候直接在Littleskin里改名就行，背包不会受影响。
+:::
+
 创建完成后，点击下面的链接进入衣柜：
 [我的衣柜 - Littleskin](https://littleskin.cn/user/closet)
 
