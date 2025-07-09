@@ -30,6 +30,10 @@
 <code v-pre> · 角色名可使用中日韩统一表意文字、大小写英文字母、数字和部分特殊符号。</code></p>
 <p><code v-pre>· 角色名最少要求 3 个字符，最多不超过 16 个字符。</code></p>
 </div>
+<div class="hint-container warning">
+<p class="hint-container-title">服务器暂时不支持中文名字！</p>
+<p>请先使用英文名游玩，研学后我会加入中文插件，到时候直接在Littleskin里改名就行，背包不会受影响。</p>
+</div>
 <p>创建完成后，点击下面的链接进入衣柜：<br>
 <a href="https://littleskin.cn/user/closet" target="_blank" rel="noopener noreferrer">我的衣柜 - Littleskin</a></p>
 <p>点击你刚刚选择的皮肤，点击右边的使用，再点击你刚刚创建的角色。</p>
