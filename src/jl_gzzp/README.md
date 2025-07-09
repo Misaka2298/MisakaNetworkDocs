@@ -51,7 +51,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 👉️ 这里点击学生登录。
 
-——————————————————————
+——————————————————
 
 <img src="https://img.misaka2298.icu/mndocs/JLgzzp/2.png">
 
@@ -65,14 +65,14 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 ::: tip 如果你忘记了密码，可以找我重置。
 :::
 
-——————————————————————
+——————————————————
 
 <img src="https://img.misaka2298.icu/mndocs/JLgzzp/3.png">
 
 ::: warning 如果你出现了这个页面，请点击“点击此处”并重复上一步操作，直到你成功进入系统。
 :::
 
-——————————————————————
+——————————————————
 
 <img src="https://img.misaka2298.icu/mndocs/JLgzzp/4.png">
 
