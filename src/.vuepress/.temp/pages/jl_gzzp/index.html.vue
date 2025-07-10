@@ -28,6 +28,8 @@
 <div class="hint-container info">
 <p class="hint-container-title">手机推荐的浏览器已变更为via浏览器。</p>
 <p>相应的，本章节末针对手机用户的提示也已进行相应更新。</p>
+<p><strong>手机用户记得下新的浏览器！</strong><br>
+<code v-pre>之前下的那个Edge可以删了，不过那个浏览器还挺好用的，所以想用可以留着。</code></p>
 </div>
 <p>👉️ <strong>安装推荐的浏览器</strong></p>
 <ul>
@@ -49,7 +51,7 @@
 <p class="hint-container-title">👉️ 对于手机用户：重置密码时无法点击确认？</p>
 <p>已经不需要把屏幕调成横屏了！</p>
 <p>请在你刚才安装的via浏览器里点击右下角的<strong>三道杠</strong>，启用第二行中间的“电脑模式”。</p>
-<p><code v-pre>电脑模式启用后截面尺寸会变得较小，注意可以使用双指分开/聚拢来实现缩放。</code></p>
+<p><code v-pre>电脑模式启用后界面尺寸会变得较小，注意可以使用双指分开/聚拢来实现缩放。</code></p>
 </div>
 <h2 id="登录-修改密码" tabindex="-1"><a class="header-anchor" href="#登录-修改密码"><span>登录 &amp; 修改密码</span></a></h2>
 <p>👉️ 点击下面的链接，进入综评平台。<br>
