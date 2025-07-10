@@ -41,7 +41,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 ## 目录
 
-本知识库包含以下部分：
+本知识库包含以下公开部分：
 
 <div class="vp-card-container">
   <VPCard
@@ -49,9 +49,8 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
     desc="了解关于这里的一切。"
     link="./about/"
   />
-  <VPCard
-    title="高中机房"
-    desc="了解站长高中机房电脑的各种神奇操作。"
-    link="./hscm/"
-  />
 </div>
+
+并且，本知识库包含许多隐藏页面，一般来说是因为不方便公开。
+
+当然如果你想看的话可以去本项目的Github仓库里去找索引。
