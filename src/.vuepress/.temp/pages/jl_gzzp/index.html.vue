@@ -94,6 +94,12 @@
 <h2 id="填写本学期的信息" tabindex="-1"><a class="header-anchor" href="#填写本学期的信息"><span>填写本学期的信息</span></a></h2>
 <h3 id="成长规划" tabindex="-1"><a class="header-anchor" href="#成长规划"><span>成长规划</span></a></h3>
 <p><strong>👉️ 点击左侧的“评价活动”，点击“成长规划”，把所有的空都填满。</strong></p>
+<div class="hint-container warning">
+<p class="hint-container-title">填一会就点一下保存！</p>
+<p>偶现无法保存的情况，要是费劲把一整页写完发现无法保存就太难受了。<br>
+所以记得写一会就去右下角保存一下！</p>
+<p><code v-pre>感谢：2024届2班 房恩泽同学的反馈</code></p>
+</div>
 <p>❗这里来列举一些一定要注意的事项 <strong>(你们的易错题)</strong> ：</p>
 <ul>
 <li>“我的不足”是需要写的，饱饱不要太自恋。</li>
@@ -137,7 +143,7 @@
 <p><strong>👉️ 类似的，点击左侧的“评价活动”，点击“评语与陈述”，在“家长寄语”一栏填写家长的评语。</strong></p>
 <p><strong>‼️填完在右下角保存！！！！！</strong></p>
 <h2 id="可算完事了" tabindex="-1"><a class="header-anchor" href="#可算完事了"><span>可算完事了！</span></a></h2>
-<p>👉️ 没完事，下学期还得整。</p>
+<p>没完事，下学期还得整。</p>
 </div></template>
 
 
