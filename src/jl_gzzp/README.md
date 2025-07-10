@@ -10,6 +10,10 @@ copyright: 御坂网络
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 Misaka2298
 ---
 
+::: info 无法重置密码的解决方法已更新！
+详见下文 [准备工作](https://docs.misaka2298.icu/jl_gzzp/#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C) 章节，点击蓝字可快速跳转。
+:::
+
 ::: tip 每当你看见👉️符号，就说明你应该做一些事情。而其余的只供参考和更深入的理解。
 如果你不想动太多脑子的话，在这个文档里面找👉️符号就可以。
 :::
@@ -35,8 +39,12 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 各个浏览器的规范不同，为了防止出现意料之外的情况，请使用推荐的浏览器操作。
 
+::: info 手机推荐的浏览器已变更为via浏览器。
+相应的，本章节末针对手机用户的提示也已进行相应更新。
+:::
+
 👉️ **安装推荐的浏览器**
-- 手机/平板用户点我安装：[Microsoft Edge for Android 下载](https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/edgeforandroid.apk)
+- （已更换）手机/平板用户点我安装：[via for Android 下载](https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/via.apk)
 
 - Windows10/11电脑点我安装：[Microsoft Edge for Windows 10/11 下载](https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=zh-cn&brand=M100)
 
@@ -44,12 +52,15 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 - 如果你是苹果手机/苹果电脑/鸿蒙Next用户，请使用你系统自带的浏览器（Safari等）操作。
 
-::: tip 👉️ 对于手机用户
-请把你的手机调成横屏，并在接下来的操作中都用横屏完成。具体操作方法因手机而异，请自行搜索“xx手机旋转屏幕”
-一般来说，你应该找到你的控制栏（调音量和亮度那里），**禁用竖屏锁定** 或 **启用自动旋转**，当然具体操作方法因手机而异，如果你找不着类似设置的话还是自己搜索一下吧。
-::: 
-
 **👉️ 在安装好我们推荐的浏览器之后，请在新的浏览器打开本教程，并使用这个浏览器完成后续操作。**
+
+::: tip 👉️ 对于手机用户：重置密码时无法点击确认？
+已经不需要把屏幕调成横屏了！
+
+请在你刚才安装的via浏览器里点击右下角的**三道杠**，启用第二行中间的“电脑模式”。
+
+``电脑模式启用后截面尺寸会变得较小，注意可以使用双指分开/聚拢来实现缩放。``
+::: 
 
 ## 登录 & 修改密码
 👉️ 点击下面的链接，进入综评平台。

@@ -1,4 +1,8 @@
-<template><div><div class="hint-container tip">
+<template><div><div class="hint-container info">
+<p class="hint-container-title">无法重置密码的解决方法已更新！</p>
+<p>详见下文 <a href="https://docs.misaka2298.icu/jl_gzzp/#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C" target="_blank" rel="noopener noreferrer">准备工作</a> 章节，点击蓝字可快速跳转。</p>
+</div>
+<div class="hint-container tip">
 <p class="hint-container-title">每当你看见👉️符号，就说明你应该做一些事情。而其余的只供参考和更深入的理解。</p>
 <p>如果你不想动太多脑子的话，在这个文档里面找👉️符号就可以。</p>
 </div>
@@ -21,10 +25,14 @@
 </div>
 <h2 id="准备工作" tabindex="-1"><a class="header-anchor" href="#准备工作"><span>准备工作</span></a></h2>
 <p>各个浏览器的规范不同，为了防止出现意料之外的情况，请使用推荐的浏览器操作。</p>
+<div class="hint-container info">
+<p class="hint-container-title">手机推荐的浏览器已变更为via浏览器。</p>
+<p>相应的，本章节末针对手机用户的提示也已进行相应更新。</p>
+</div>
 <p>👉️ <strong>安装推荐的浏览器</strong></p>
 <ul>
 <li>
-<p>手机/平板用户点我安装：<a href="https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/edgeforandroid.apk" target="_blank" rel="noopener noreferrer">Microsoft Edge for Android 下载</a></p>
+<p>（已更换）手机/平板用户点我安装：<a href="https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/via.apk" target="_blank" rel="noopener noreferrer">via for Android 下载</a></p>
 </li>
 <li>
 <p>Windows10/11电脑点我安装：<a href="https://go.microsoft.com/fwlink/?linkid=2109047&amp;Channel=Stable&amp;language=zh-cn&amp;brand=M100" target="_blank" rel="noopener noreferrer">Microsoft Edge for Windows 10/11 下载</a></p>
@@ -36,12 +44,13 @@
 <p>如果你是苹果手机/苹果电脑/鸿蒙Next用户，请使用你系统自带的浏览器（Safari等）操作。</p>
 </li>
 </ul>
-<div class="hint-container tip">
-<p class="hint-container-title">👉️ 对于手机用户</p>
-<p>请把你的手机调成横屏，并在接下来的操作中都用横屏完成。具体操作方法因手机而异，请自行搜索“xx手机旋转屏幕”<br>
-一般来说，你应该找到你的控制栏（调音量和亮度那里），<strong>禁用竖屏锁定</strong> 或 <strong>启用自动旋转</strong>，当然具体操作方法因手机而异，如果你找不着类似设置的话还是自己搜索一下吧。</p>
-</div>
 <p><strong>👉️ 在安装好我们推荐的浏览器之后，请在新的浏览器打开本教程，并使用这个浏览器完成后续操作。</strong></p>
+<div class="hint-container tip">
+<p class="hint-container-title">👉️ 对于手机用户：重置密码时无法点击确认？</p>
+<p>已经不需要把屏幕调成横屏了！</p>
+<p>请在你刚才安装的via浏览器里点击右下角的<strong>三道杠</strong>，启用第二行中间的“电脑模式”。</p>
+<p><code v-pre>电脑模式启用后截面尺寸会变得较小，注意可以使用双指分开/聚拢来实现缩放。</code></p>
+</div>
 <h2 id="登录-修改密码" tabindex="-1"><a class="header-anchor" href="#登录-修改密码"><span>登录 &amp; 修改密码</span></a></h2>
 <p>👉️ 点击下面的链接，进入综评平台。<br>
 <a href="https://gzzp.jlipedu.cn/eedu_base/" target="_blank" rel="noopener noreferrer">吉林省普通高中学生综合素质评价平台</a></p>
