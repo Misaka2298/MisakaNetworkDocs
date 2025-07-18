@@ -34,4 +34,6 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 [御坂网络知识库](https://docs.misaka2298.icu/)
 
+[Misaka2298的博客](https://www.cnblogs.com/Misaka2298)
+
 暂无自己的logo，现暂用[赛博朋克2077](https://mzh.moegirl.org.cn/%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B2077)中[荒坂公司(Arasaka)](https://cyberpunk.huijiwiki.com/wiki/%E8%8D%92%E5%9D%82)的logo。

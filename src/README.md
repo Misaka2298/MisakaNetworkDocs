@@ -19,8 +19,8 @@ actions:
   - text: BiliBili 主页
     link: https://space.bilibili.com/240832525
 
-  - text: Luogu 主页
-    link: https://www.luogu.com.cn/user/680721
+  - text: 个人博客
+    link: https://www.cnblogs.com/Misaka2298
 
 copyright: 御坂网络
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 Misaka2298
