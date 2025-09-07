@@ -7,7 +7,7 @@
   />
   <VPCard
     title="联系我们"
-    desc="哈哈。"
+    desc="赫赫。"
     link="./contact/"
   />
 </div></div></template>

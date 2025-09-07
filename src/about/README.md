@@ -18,7 +18,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
   />
   <VPCard
     title="联系我们"
-    desc="哈哈。"
+    desc="赫赫。"
     link="./contact/"
   />
 </div>
