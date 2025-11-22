@@ -27,17 +27,19 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 ---
 
-::: info 本站还处于早期开发阶段☆Kira~
+::: info 咕咕嘎嘎
 
-本站还未完全完工，将会随处可见**我没写完的页面**，请谨慎阅览。
+我是大懒 B，本站将会随处可见**我没写完的页面**，请谨慎阅览。
 
 :::
 
 欢迎来到 **御坂网络知识库**。
 
-只是一个被Misaka2298用来随便写点东西的网站，我也不知道要在这里写什么。
+只是一个被 Misaka2298 用来随便写点东西的网站，我也不知道要在这里写什么。
 
-建站灵感来源于[classisland-docs-next](https://github.com/ClassIsland/classisland-docs-next)，感谢[HelloWRC](https://github.com/HelloWRC)。
+很多页面是早期写的，完全没有遵守 Markdown 规范，不要学我的语法。
+
+建站灵感来源于 [classisland-docs-next](https://github.com/ClassIsland/classisland-docs-next)，感谢 [HelloWRC](https://github.com/HelloWRC)。
 
 ## 目录
 
@@ -48,6 +50,11 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
     title="关于"
     desc="了解关于这里的一切。"
     link="./about/"
+  />
+  <VPCard
+    title="杂项"
+    desc="一些杂乱且无关联的文章"
+    link="./Misc/"
   />
 </div>
 
