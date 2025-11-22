@@ -1,7 +1,7 @@
-import { hasGlobalComponent } from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.9_6332c9435f1769f93cea018913c3b441/node_modules/@vuepress/helper/lib/client/index.js";
-import { useScriptTag } from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vueuse+core@13.1.0_vue@3.5.13/node_modules/@vueuse/core/index.mjs";
+import { hasGlobalComponent } from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.1_cff9eb5b88fb6a429afb371eb704a643/node_modules/@vuepress/helper/lib/client/index.js";
+import { useScriptTag } from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vueuse+core@14.0.0_vue@3.5.24/node_modules/@vueuse/core/dist/index.js";
 import { h } from "vue";
-import { VPIcon } from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-icon@2.0.0_a1b5c84ce5be89ff4552c62c38b36880/node_modules/@vuepress/plugin-icon/lib/client/index.js"
+import { VPIcon } from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-icon@2.0.0_0f51048e4d5c8d513a1f3b5ece82b42d/node_modules/@vuepress/plugin-icon/lib/client/index.js"
 
 export default {
   enhance: ({ app }) => {

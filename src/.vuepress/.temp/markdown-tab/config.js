@@ -1,6 +1,6 @@
-import { CodeTabs } from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-t_c3ef42a614d6563f09a2da21ee873fdf/node_modules/@vuepress/plugin-markdown-tab/lib/client/components/CodeTabs.js";
-import { Tabs } from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-t_c3ef42a614d6563f09a2da21ee873fdf/node_modules/@vuepress/plugin-markdown-tab/lib/client/components/Tabs.js";
-import "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-t_c3ef42a614d6563f09a2da21ee873fdf/node_modules/@vuepress/plugin-markdown-tab/lib/client/styles/vars.css";
+import { CodeTabs } from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-t_7565f791ed263345c1b620485acd4dc1/node_modules/@vuepress/plugin-markdown-tab/lib/client/components/CodeTabs.js";
+import { Tabs } from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-t_7565f791ed263345c1b620485acd4dc1/node_modules/@vuepress/plugin-markdown-tab/lib/client/components/Tabs.js";
+import "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-t_7565f791ed263345c1b620485acd4dc1/node_modules/@vuepress/plugin-markdown-tab/lib/client/styles/vars.css";
 
 export default {
   enhance: ({ app }) => {

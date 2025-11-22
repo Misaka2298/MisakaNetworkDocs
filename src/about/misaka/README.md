@@ -8,7 +8,6 @@ category:
 copyright: 御坂网络
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2025-至今 Misaka2298
 ---
-# 1
 
 # 什么是御坂网络知识库
 始建于 2025 年 4 月 8 日，是御坂球 Misaka2298 的**个人知识库**，或许会在这里写一些东西。
@@ -22,9 +21,8 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 是“**御坂网络** 知识库”，不是“御坂 **网络知识库**”。
 
 # 关于站长
-御坂球（Misaka2298），河南郑州人，目前就读于长春市某中学高一(2024届)，现役[NOI](https://www.noi.cn/)(全国青少年信息学奥林匹克竞赛)边缘选手，业余电吉他爱好者，学过一点竹笛。
 
-曾获中国民族管弦乐协会竹笛业余十级(优秀)，CCF CSP-S2024 复赛一等奖，参加了 NOIP2024，但是没拿奖，哈哈。
+[ABOUT ME](https://www.cnblogs.com/Misaka2298/p/19156352).
 
 # 关于御坂网络
 

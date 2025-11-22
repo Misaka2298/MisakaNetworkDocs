@@ -1,15 +1,15 @@
-import { Layout, NotFound, injectDarkMode, setupDarkMode, setupSidebarItems, scrollPromise } from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-theme-hope@2.0.0-r_82b98180a8c7a66bfc9db668d273b74f/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { Layout, NotFound, injectDarkMode, setupDarkMode, setupSidebarItems, scrollPromise } from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-theme-hope@2.0.0-r_e5d562b886db59472101e4e9fa7f000e/node_modules/vuepress-theme-hope/lib/bundle/exports/base.js";
 
-import { defineCatalogInfoGetter } from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-catalog@2._ffc3cd853f1ff29d2c3dd391f91bd353/node_modules/@vuepress/plugin-catalog/lib/client/index.js"
+import { defineCatalogInfoGetter } from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-catalog@2._7c7b2e8eaef99cb6ba270078e87ac445/node_modules/@vuepress/plugin-catalog/lib/client/index.js"
 import { h } from "vue"
 import { resolveComponent } from "vue"
-import { GlobalEncrypt, LocalEncrypt } from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-theme-hope@2.0.0-r_82b98180a8c7a66bfc9db668d273b74f/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
-import "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-theme-hope@2.0.0-r_82b98180a8c7a66bfc9db668d273b74f/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
+import { GlobalEncrypt, LocalEncrypt } from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-theme-hope@2.0.0-r_e5d562b886db59472101e4e9fa7f000e/node_modules/vuepress-theme-hope/lib/bundle/exports/encrypt.js";
+import "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-theme-hope@2.0.0-r_e5d562b886db59472101e4e9fa7f000e/node_modules/vuepress-theme-hope/lib/bundle/styles/encrypt/bundle.scss"
 
-import "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.9_6332c9435f1769f93cea018913c3b441/node_modules/@vuepress/helper/lib/client/styles/colors.css";
-import "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.9_6332c9435f1769f93cea018913c3b441/node_modules/@vuepress/helper/lib/client/styles/normalize.css";
-import "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.9_6332c9435f1769f93cea018913c3b441/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
-import "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-theme-hope@2.0.0-r_82b98180a8c7a66bfc9db668d273b74f/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
+import "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.1_cff9eb5b88fb6a429afb371eb704a643/node_modules/@vuepress/helper/lib/client/styles/colors.css";
+import "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.1_cff9eb5b88fb6a429afb371eb704a643/node_modules/@vuepress/helper/lib/client/styles/normalize.css";
+import "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+helper@2.0.0-rc.1_cff9eb5b88fb6a429afb371eb704a643/node_modules/@vuepress/helper/lib/client/styles/sr-only.css";
+import "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-theme-hope@2.0.0-r_e5d562b886db59472101e4e9fa7f000e/node_modules/vuepress-theme-hope/lib/bundle/styles/bundle.scss";
 
 defineCatalogInfoGetter((meta) => {
   const title = meta.title;
@@ -18,7 +18,7 @@ defineCatalogInfoGetter((meta) => {
 
   return shouldIndex ? {
     title,
-    content: icon ? () =>[h(resolveComponent("VPIcon"), { icon }), title] : null,
+    content: icon ? () =>[h(resolveComponent("VPIcon"), { icon, sizing: "both" }), title] : null,
     order: meta.order,
     index: meta.index,
   } : null;

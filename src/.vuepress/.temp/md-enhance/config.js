@@ -1,5 +1,5 @@
-import CodeDemo from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-plugin-md-enhance@_de6ddb15836d5ced8d31bd62e28607d1/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo.js";
-import MdDemo from "D:/Develop/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-plugin-md-enhance@_de6ddb15836d5ced8d31bd62e28607d1/node_modules/vuepress-plugin-md-enhance/lib/client/components/MdDemo.js";
+import CodeDemo from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-plugin-md-enhance@_58904175830bf63853a98f1e8340fcf4/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo.js";
+import MdDemo from "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/vuepress-plugin-md-enhance@_58904175830bf63853a98f1e8340fcf4/node_modules/vuepress-plugin-md-enhance/lib/client/components/MdDemo.js";
 
 export default {
   enhance: ({ app }) => {
