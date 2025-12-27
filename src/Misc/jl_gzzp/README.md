@@ -72,7 +72,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 ### 登录
 
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/2.png">
+<img src="https://img.misaka2298.icu/mndocs/JLgzzp/2ver2.png">
 
 👉️ 在这里输入你的用户信息，其中：
 
