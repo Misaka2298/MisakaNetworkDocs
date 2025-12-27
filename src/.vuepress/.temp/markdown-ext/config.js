@@ -1,2 +1,2 @@
-    import "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-e_5098275ead82a8b77228bd3ca41cc9e8/node_modules/@vuepress/plugin-markdown-ext/lib/client/styles/footnote.css"
-    import "D:/Develop/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-e_5098275ead82a8b77228bd3ca41cc9e8/node_modules/@vuepress/plugin-markdown-ext/lib/client/styles/tasklist.css"
+    import "D:/Development/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-e_5098275ead82a8b77228bd3ca41cc9e8/node_modules/@vuepress/plugin-markdown-ext/lib/client/styles/footnote.css"
+    import "D:/Development/MisakaNetwork/MisakaNetworkDocs/MNDocs/src/node_modules/.pnpm/@vuepress+plugin-markdown-e_5098275ead82a8b77228bd3ca41cc9e8/node_modules/@vuepress/plugin-markdown-ext/lib/client/styles/tasklist.css"
