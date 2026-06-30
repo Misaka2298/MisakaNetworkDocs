@@ -11,7 +11,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 ---
 
 ::: info 已修订。
-本文已于 2025 年 12 月 27 日修订完毕。
+本文已于 2026 年 06 月 30 日修订完毕。
 :::
 
 ::: tip 每当你看见👉️符号，就说明你应该做一些事情。而其余的只供参考和更深入的理解。
@@ -41,7 +41,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 👉️ **安装推荐的浏览器**
 
-- 手机/平板用户点我安装：[via for Android 下载](https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/via.apk)
+- 手机/平板用户点我安装：[via for Android 下载](https://backup.misaka2298.top/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/via.apk)
 
 - Windows10/11 电脑点我安装：[Microsoft Edge for Windows 10/11 下载](https://go.microsoft.com/fwlink/?linkid=2109047&Channel=Stable&language=zh-cn&brand=M100)
 
@@ -66,13 +66,13 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 👉️ 点击下面的链接，进入综评平台。
 [吉林省普通高中学生综合素质评价平台](https://gzzp.jlipedu.cn/eedu_base/)
 
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/1.png">
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/1.png">
 
 👉️ 这里点击学生登录。
 
 ### 登录
 
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/2ver2.png">
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/2ver2.png">
 
 👉️ 在这里输入你的用户信息，其中：
 
@@ -87,16 +87,14 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 ### 如果这里出现了错误
 
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/3.png">
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/3.png">
 
 ::: warning 如果你出现了这个页面，请点击“点击此处”并重复上一步操作，直到你成功进入系统。
 :::
 
 ### 重置密码
 
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/4.png">
-
-经过复杂(并非复杂)的操作，我们终于来到了重置密码这一步，辛苦了。😘
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/4.png">
 
 👉️ 在这里将密码重置为你常用的密码，注意看下面的密码要求，注意密码需要在上下两个输入框中输两遍，防止你打错字。
 
@@ -104,7 +102,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 ## 检查个人信息
 
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/5.png">
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/5.png">
 
 一切都准备好后，先检查一下个人信息吧。
 
@@ -116,7 +114,7 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 - 头像：应该是你的大脸加上蓝色背景。
 - 身份证号与学籍号：应该是你的身份证号和学籍号，``学籍号是G+身份证``。
 - 别名：一般来说应**留空**。
-- 政治面貌：一般来说是群众/共青团员。如果你的政治面貌发生变动，请联系我修改。
+- 政治面貌：一般来说是群众/共青团员。如果不符请联系我修改。
 
 ## 填写本学期的信息
 

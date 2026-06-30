@@ -1,6 +1,6 @@
 <template><div><div class="hint-container info">
 <p class="hint-container-title">已修订。</p>
-<p>本文已于 2025 年 12 月 27 日修订完毕。</p>
+<p>本文已于 2026 年 06 月 30 日修订完毕。</p>
 </div>
 <div class="hint-container tip">
 <p class="hint-container-title">每当你看见👉️符号，就说明你应该做一些事情。而其余的只供参考和更深入的理解。</p>
@@ -28,7 +28,7 @@
 <p>👉️ <strong>安装推荐的浏览器</strong></p>
 <ul>
 <li>
-<p>手机/平板用户点我安装：<a href="https://alist.misaka2298.icu/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/via.apk" target="_blank" rel="noopener noreferrer">via for Android 下载</a></p>
+<p>手机/平板用户点我安装：<a href="https://backup.misaka2298.top/d/%E5%85%AC%E5%BC%80/%E5%A4%A9%E7%BF%BC%E4%BA%91%E7%9B%98/AndroidPkg/via.apk" target="_blank" rel="noopener noreferrer">via for Android 下载</a></p>
 </li>
 <li>
 <p>Windows10/11 电脑点我安装：<a href="https://go.microsoft.com/fwlink/?linkid=2109047&amp;Channel=Stable&amp;language=zh-cn&amp;brand=M100" target="_blank" rel="noopener noreferrer">Microsoft Edge for Windows 10/11 下载</a></p>
@@ -51,10 +51,10 @@
 <h3 id="进入系统" tabindex="-1"><a class="header-anchor" href="#进入系统"><span>进入系统</span></a></h3>
 <p>👉️ 点击下面的链接，进入综评平台。<br>
 <a href="https://gzzp.jlipedu.cn/eedu_base/" target="_blank" rel="noopener noreferrer">吉林省普通高中学生综合素质评价平台</a></p>
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/1.png">
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/1.png">
 <p>👉️ 这里点击学生登录。</p>
 <h3 id="登录" tabindex="-1"><a class="header-anchor" href="#登录"><span>登录</span></a></h3>
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/2.png">
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/2ver2.png">
 <p>👉️ 在这里输入你的用户信息，其中：</p>
 <ul>
 <li>用户名<strong>不是</strong>你的真名，也<strong>不是</strong>你的身份证号，<strong>是</strong>在一个表格里形如 <strong>“p/x + 七位数字”</strong> 的一串字符。这个表格应该在师生群里有。</li>
@@ -67,17 +67,16 @@
 <p class="hint-container-title">如果你忘记了密码，可以找我重置。</p>
 </div>
 <h3 id="如果这里出现了错误" tabindex="-1"><a class="header-anchor" href="#如果这里出现了错误"><span>如果这里出现了错误</span></a></h3>
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/3.png">
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/3.png">
 <div class="hint-container warning">
 <p class="hint-container-title">如果你出现了这个页面，请点击“点击此处”并重复上一步操作，直到你成功进入系统。</p>
 </div>
 <h3 id="重置密码" tabindex="-1"><a class="header-anchor" href="#重置密码"><span>重置密码</span></a></h3>
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/4.png">
-<p>经过复杂(并非复杂)的操作，我们终于来到了重置密码这一步，辛苦了。😘</p>
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/4.png">
 <p>👉️ 在这里将密码重置为你常用的密码，注意看下面的密码要求，注意密码需要在上下两个输入框中输两遍，防止你打错字。</p>
 <p>👉️ 重置完成后，点击右下角的“确认”，并且下次登录时使用你新设置的这个密码。</p>
 <h2 id="检查个人信息" tabindex="-1"><a class="header-anchor" href="#检查个人信息"><span>检查个人信息</span></a></h2>
-<img src="https://img.misaka2298.icu/mndocs/JLgzzp/5.png">
+<img src="https://img.misaka2298.top/mndocs/JLgzzp/5.png">
 <p>一切都准备好后，先检查一下个人信息吧。</p>
 <p>👉️按照图片点击右上角你的大脸，点击“个人信息”查看。</p>
 <p>❗需要着重检查的项有：</p>
@@ -86,7 +85,7 @@
 <li>头像：应该是你的大脸加上蓝色背景。</li>
 <li>身份证号与学籍号：应该是你的身份证号和学籍号，<code v-pre>学籍号是G+身份证</code>。</li>
 <li>别名：一般来说应<strong>留空</strong>。</li>
-<li>政治面貌：一般来说是群众/共青团员。如果你的政治面貌发生变动，请联系我修改。</li>
+<li>政治面貌：一般来说是群众/共青团员。如果不符请联系我修改。</li>
 </ul>
 <h2 id="填写本学期的信息" tabindex="-1"><a class="header-anchor" href="#填写本学期的信息"><span>填写本学期的信息</span></a></h2>
 <h3 id="成长规划" tabindex="-1"><a class="header-anchor" href="#成长规划"><span>成长规划</span></a></h3>
@@ -102,7 +101,7 @@
 <li>“我的不足”是需要写的。</li>
 <li>“我的爱好特长”有三个空可以填，除了你的爱好特长以外，也可以在这里写一些你爱好特长获得的奖项和荣誉。</li>
 <li>‼️<strong>这个页面是可以上下翻动的</strong>，别填漏了。</li>
-<li>⚠️“本学期我要参加的学业水平考试科目”指的是会考科目，这个学期填 <strong>语文，数学，外语，物理，思想政治和通用技术</strong> 。</li>
+<li>⚠️“本学期我要参加的学业水平考试科目”指的是会考科目，这个学期填 <strong>语文，数学，外语，物理，思想政治，信息技术和通用技术</strong> 。</li>
 <li>“我喜欢的职业”有三个空可以填。</li>
 <li>“我想选择的专业和学校” 也有三个空可以填。</li>
 <li><strong>‼️填完在右下角保存！！！！！</strong></li>
@@ -130,17 +129,7 @@
 <h3 id="评语与陈述" tabindex="-1"><a class="header-anchor" href="#评语与陈述"><span>评语与陈述</span></a></h3>
 <p><strong>👉️ 点击左侧的“评价活动”，点击“评语与陈述”，在“学生自我陈述”一栏填写你的自我评语。</strong></p>
 <p><strong>‼️填完在右下角保存！！！！！</strong></p>
-<p>这里除了你自己的评语，还要有家长寄语。</p>
-<p>👉️ 点击你右上角的大脸，点击退出登录，然后使用家长的账号登录。</p>
-<div class="hint-container info">
-<p class="hint-container-title">家长账号是什么？</p>
-<p>类似学生的，家长账号也在表格中，注意家长账号的密码和学生账号是独立的，这里引用我前面的提示。</p>
-<blockquote>
-<p>密码每学期都会重置，高二是 <code v-pre>g2.g2.g2.</code> 。如果你重置了密码，那这里就是你新设置的密码。</p>
-</blockquote>
-</div>
-<p><strong>👉️ 类似的，点击左侧的“评价活动”，点击“评语与陈述”，在“家长寄语”一栏填写家长的评语。</strong></p>
-<p><strong>‼️填完在右下角保存！！！！！</strong></p>
+<p>‼️本学期不需要填写家长寄语，只需要写学生评语。</p>
 <h2 id="可算完事了" tabindex="-1"><a class="header-anchor" href="#可算完事了"><span>可算完事了！</span></a></h2>
 <p>没完事，下学期还得整。</p>
 </div></template>
